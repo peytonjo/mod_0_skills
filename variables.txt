@@ -1,0 +1,10 @@
+var food = "cupcake"
+var isDelicious = true
+food = "pizza"
+var num2 = 2
+var num7 = 7
+var quotient = num7 / num2
+
+var songs = ["clush","say so","5 o'clock somewhere"]
+songs.shift()
+food.length()

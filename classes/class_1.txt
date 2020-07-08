@@ -1,0 +1,13 @@
+Room
+
+tables (integer)
+chairs (integer)
+lighting (string)
+musicPlaying (boolean)
+
+methods
+
+dimLights (changes the lighting string from normal to romantic)
+playMusic (makes musicPlaying attribute true)
+combineTables (lowers the attribute data for number of tables)
+removeChairs (changes the attribute data for number of chairs)

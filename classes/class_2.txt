@@ -1,0 +1,13 @@
+Employee
+
+role (string)
+salary (integer)
+hours (integer)
+shifts (array)
+
+methods
+
+promotion (changes the attribute of role)
+payRaise (changes the integer of salary)
+overTime (increase the integer of hours)
+scheduleChange (changes the array of what days are worked)

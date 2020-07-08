@@ -1,0 +1,11 @@
+dinningRoom
+
+tables: 8
+chairs: 32
+lighting: "normal"
+musicPlaying: false
+
+dimLights: lighting = "romantic"
+playMusic: musicPlaying = true
+combineTables: tables = 4
+removeChairs: chairs = 16

@@ -1,0 +1,12 @@
+chef
+
+role: "sousChef"
+salary: 52000
+hours: 40
+shifts: ['monday','wednesday','thursday','saturday']
+
+
+promotion: role = "headChef"
+payRaise: salary = 62000
+overTime: hours = 50
+scheduleChange: shifts = ['monday','wednesday','thursday','sunday']
